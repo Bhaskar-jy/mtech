@@ -1,0 +1,109 @@
+
+Sl. No.,date, time, address, age, gender, caste, diagnosis, cause of death
+1,10-05-2017, 6:45AM, STS Colony Daporijo,Adult, Female, APST, CPD, CPD
+2,07-07-2017, 8:55PM, Gandhi Market Daporijo, Adult, Male, APST, PF+ve, Cebral Malaria
+3,03-08-2017, 10:30AM, Power Grid Colony Daporijo, Adult, Male, APST, Viral Encepalitis and malaria(PV), Viral Encepalitis
+4,05-08-2017, 6:50PM, Sigin-I Colony Daporijo, Adult, Female, APST, CVA, Cardio-Respiratory Failure
+5,06-08-2017, 9:50AM, Bn. Colony Daporijo, Adult, Male, APST, Palmonary Embolism, Cardio-Respiratory Failure
+6,26-08-2017, 1:40PM, Lida Village Daporijo, 14 years, Male, Non-APST, PV Malaria, PV Malaria
+7,07-11-2017, 12:45PM, Lida Village Daporijo, 28 years, Male, APST, PF Malaria, Cerebral Malaria
+8,08-11-2017, 11:40PM, Gandhi market Daporijo, Adult, Male, APST, CCFC Hepatic Encephalopathy,CCFC HHepatic Encephalopathy
+9,01-12-2017, 7:55AM, Industry Colony Daporijo, Adult, Female,APST, Septicentric, Cardio-Respiratory Failure
+10,09-12-2017,4:40PM, Forest Colony Daporijo, Adult, Female, APST, Anaemia, Anaemia
+11,27-12-2017, 11:30PM, DST Colony Daporijo, 6 years, Male, APST, Hepatosplenomegaly(Worm in Intestine),  Cardiac Arrest(Difficulty in Breathing)
+12,09-01-2018,9:30PM, Tapa-Gyama Colony Daporijo, Adult, Male, APST, Breathing Difficulty(Asphyxia), Diabetes
+13,09-01-2018, 12:20PM, Medical Colony Daporijo, 60 years, Male,APST, Breathing Difficulty, ACL
+14,28-01-2018, 11:00AM, Daporijo, 62 years, Male, APST, Breathing Difficulty, ACL
+15,03-01-2018, 9:45AM, Nacho Village, 1.5 years, Male, APST, Downsyndrome BranchoPulmonary Pneumonia, Downsyndrome BranchoPulmonary Pneumonia
+16,19-01-2018, 1:04AM, Sigin Colony Daporijo, 2 years, Female, APST, CAF(coronary artery fistula), Pneumonia
+17,28-01-2018, 12:50AM, Nacho Village, 6 days, Male, APST, ACLT, Pneumonia 
+18,12-04-2018, 12:00AM, Polo Colony Daporijo, Adult, Male, APST, Hepatosplenomegaly, Cardiac Arrest
+19,13-04-2018, 4:00AM, kuporijo(Dugi), 53 years, Female, APST, CVA, Stroke
+20,11-05-2018, 6:34AM, Powerhouse Colony, 40 years, Male, APST, Null, intestinal obstruction
+21,13-05-2018, 5:30AM, Shanti Colony Daporijo, Adult, Female, APST, Null, Hepatic Encephalopathy
+22,09-06-2018, 4:25AM, Forest Colony Daporijo, Adult, Female, APST,  CPD, Cardio-Respiratory Failure
+23,09-06-2018, 4:44PM, Kodak Village, Adult, Male, APST, Diarrhea pain epigastric, ACLF
+24,10-07-2018, 2:20AM, Liruk Village, 62 years, Female, APST, Cronic Liver Disease with Anaemia, Cardio Respiratory Failure
+25,16-07-2018, 2:25PM, Airport Colony, Adult, Female, APST, Cerebrovascular Accident, Cardio-Respiratory Failure
+26,05-08-2018, 3:50PM, Sigin-II Colony, 18 years, Female, APST, null, Difficulty
+28,07-08-2018, 6:10PM, Abotani Colony Daporijo, 45 years, Female, APST, null, Cardio Respiratory Arrest
+29,17-08-2018, 12:50PM, Bekoin Colony Daporijo, 5 years, Female, APST, null, CVA
+30,27-08-2018, 7:30AM, Medcial Colony Daporijo, 60years, Male, APST, CVA, CVA
+31,07-10-2018, 7:10PM, Airport Colony Daporijo, Adult, Male, APST, Anaemia CCT, Acute Cardio Respiratory Failure
+32,06-08-2018, 2:40PM, Forest Colony Daporijo, 14 years, Male, APST, AGE, Cardio Respiratory Arrest
+33,19-08-2018, 8:10PM, Sinima Colony Daporijo, 1 day, Male, APST,Mecomson Stain, Cardio Respiratory Arrest
+34,30-08-2018, 6:00AM, Bararupok Village, 8 days, Female, APST, null, ARDS
+35,29-10-2018, 1:00PM, Abotani Colony Daporijo, 2.5 Months, Male, APST, Null, Breathing Difficulty
+36,29-10-2018, 12:45PM, Abotani Colony Daporijo, 2 Months, Male, APST, Null, Breathing Difficulty
+37,22-11-2018, 3:00PM, Lida Village Daporijo, 4 years, Male, APST, LRTI, (LRTI) Acute Cardio Respiratory Failure
+38,03-12-2018, 3:30AM, Airport Colony Daporijo, 1 day, Female,APST, Null, Birth Asphyxia
+39,03-12-2018, 11:00PM, Airport Colony Daporijo, 1 day, Female, APST,  aplasia, aplasia
+40,05-12-2018, 10:00AM, DST Colony Daporijo, 1 month, Female, APST, Null, CRF and P.E.M
+41,11-08-2019, 10:15PM, singyik Village, 24 days, Male, APST, null, cardio Respiratory Arrest
+42,17-08-2019, 3:50AM, Sikarijo Colony, 24 days, Female, APST, NULL, NULL
+43,01-09-2019, 9:10PM, Industry Colony Daporijo, 4 Months, Female, ST,Pneumonia, Respiratory Arrest
+44,18-09-2019, 8:50AM, Nguki Village, 2 years, Female, APST, Birth Asphyxia, Null
+45,14-06-2019, 4:15PM, Lida Village, 3 months, Female, APST, Severe Pneumonia, Respiratory Arrest
+46,22-06-2019, 12:30PM, DST Colony Daporijo, 2 years, Female, ST, Pneumonia, Respiratory Failure
+47,11-07-2019, 9:30PM, Sigin Colony Daporijo, 1 day, Male, APST, Neomatal Septicentria, Neomatal Septicentria
+48,12-07-2019, 10:00AM, Gyama Colony Daporijo, 2 days, Female, APST, prematurity, CRF
+49,06-12-2019, 1:25AM, Param Village, Adult, Male, APST, Head Injury-cerebral hemorrhage and brain lacerations, Head Injury-cerebral hemorrhage and brain lacerations
+50,06-06-2019, 7:10PM, Veteranary Colony Daporijo, Adult, Male, APST, Acronic Liver Disease, Chronic Liver Disease
+51,16-02-2019, 2:10PM, DDSE Colony Daporijo, 40 years, Male, APST, Stroke, Stroke
+52,22-07-2019, 3:30PM, Pakam Colony Daporijo, 17 years, Male, APST, Chronic Liver Damage, Liver Damage
+53,01-08-2019, 5:45AM, Gyama Colony Daporijo, Adult, Male, APST, Acute cerebral Damage, Intracerebral Haemorrhage
+54,17-08-2019, 11:40AM, Polo Colony Daporijo, 58years, Male, APST, Carcinoma Liver, Liver Failure
+55,26-08-2019, 3:30PM, Veteranary Colony Daporijo, Adult, Male, APST, Chronic Liver Disease Hepatic encephalopathy, Cardio Respiratory Arrest
+56,15-03-2019, 3:30AM, Tigri Colony Daporijo, Adult, Male, APST, null, Respiratory Arrest
+57,26-04-2019, 2:20PM, DMO Office Daporijo, Adult, Female, APST, LIver Damage, hypothermia shock
+58,29-05-2019, 4:00PM, Medical Colony Daporijo, Adult, Male, APST, hypothermia shock, hypothermia shock
+59,24-06-2019, 11:50AM, Pakam Colony Daporijo, 50 years, Male, APST, Liver cancer, Liver Failure and Hepatic
+60,26-01-2020, 9:09AM, Bokpin Colony Daporijo, 1 year, Male, APST, null, Asphyxia
+61,11-02-2020, 5:10PM, Gandhi Market Daporijo, 30 years, Male, APST, null, Head Injury due to RTA
+62,15-02-2020, 11:00AM, DST Colony Daporijo, Old, Female, APST, Sudden Cardiac Arrest,Cardio Respiratory Arrest
+63,24-02-2020, 1:59AM, BTS Colony Daporijo, 70 years, Male, APST, Sudden Cardiac Arrest, Sudden Cardiac Arrest
+64,25-02-2020, 3:20PM, LC Colony Daporijo, Adult, Male, APST, null, Sudden death
+65,26-03-2020, 11:22PM, Lily Dong, Adult, Female, APST, stomach cancer, stomach cancer
+66, 21-01-21, :30 pm, Daporijo, A, Male, ST, k|o|o|aml, hepatic encephalopathy
+67, 23-1-21, 10:09 am, Bagbi, Adult, Male, ST, Nil, 
+68, 14-2-21, 9:32 am, Daporijo, A, Male, ST, Pericardial effusion, Cardiac arrest
+69, 22-02-21, 6:50 am, Dumporijo, Adult, Male, ST, Nil, Intra cranial hamorrhage
+70, 09-3-21, 3:58 pm, Polo colony Daporijo, A, Male, ST, stomach ulcer, Cardio resperatory failure
+71, 24-3-21, 10:30 am, Daporijo, Adult, Male, ST, Nil,Brought death(electric shock)
+72, 02-04-21, 3:16 pm, Village Bui, 23 yrs, Male, ST, Nil, Brought death and drug abuse
+73, 18-04-21, 10:30 pm, Sigin Colony Daporijo, A, Female,ST, Chronic bronchial ashtama, Cardiopulmonary arrest
+74, 23-5-21, 2:30 am, Abotani colony Daporijo, 15 yrs, M,ST, hepatic encephalopathy, Cardiopulmonary arrest
+75, 10-06-21, 9:05 am, Pakam Colony, 45 yrs, Male, ST, Breathing difficulties anaemia, Breathing difficulties anaemia
+76, 23-6-21, 6:56 am, Sigin I, Adult, Male, ST, Nil, pericardial effusion
+77, 24-6-21, 2:58 am, Dumporijo, 80 yrs, Female, ST, Nil, Age and severe dehydration
+78, 26-06-21, 9:25 pm, Polo colony Daporijo, 60 yrs, Female, ST, Acute cardiac respiratory failure,Acute cardiac respiratory failure
+79, 25-7-21, 11:00 am, Dumporijo, Adult, F, ST, Nil, Scrub typhus and hypovolemic shock
+80, 28-07-21, 1:15 pm, Abotani colony Daporijo, 60 yrs, Male, ST, cardiac pulmonary failure, pulmonary failure 
+81, 11-9-21, 4:30 pm, Lidu colony Daporijo, Adult, Male, ST, Nil, Stroke
+82, 11-9-21, 5:13 pm, Daporijo, 30 yrs, Male, ST, Cardio respiratory failure, internal bleeding
+83, 14-09-21, 3:10 am, Daporijo, A, Male, ST, Rabies, Rabies
+84, 17-09-21, 6:55 am, Daporijo, A, Female, ST, CVA, CVA
+85, 23-9-21, 1:45 am, Forest colony Daporijo, 78 yrs, Male, ST, Nil, Chronic biliary disease
+86, 27-9-21, 8:30 pm, Daporijo, 65 yrs, Female, ST, Nil, CVS(brought death)
+87, 07-10-21, 8:15 am, Daporijo, 24 yrs, Male, ST, Nil, Liver disease
+88, 10-10-21, 10:45 pm, Polo colony Daporijo, 80 yrs, Female, ST, CVA, Acute on chronic renal failure
+89, 10-10-21, 11:00pm, Polo colony Daporijo, A, Female, ST, Anemia, Cardiac failure 
+90, 12-10-21, 8:45 am, Daporijo, 45 yrs, Female, ST,Nil, Cardiac arrest
+91, 17-10-21, 8:40 pm, Forest colony Daporijo, 15 yrs, Male, ST, Cardio failure, Cardio arrest
+92, 29-10-21, 11:24 am, Sigin part I Daporijo, 60 yrs, Male, ST, Nil, mycocardial infarction
+93, 6-11-21, 1:19 pm, Daporijo, Adult, Male, ST, Nil, Hypovolemic shock
+94, 18-12-21, 7:35 pm, Daporijo, 31 yrs, Male, ST, Nil, Brought death 
+95, 24-12-21, 5:22 pm, Sigin 2 Daporijo, 65 yrs, Male, ST, Acute cardiac respiratory failure,Respiratory failure 
+96, 26-12-21, 10:05 pm, Abotani colony Daporijo, 46, Female, ST, Stroke, Cardio respiratory failure
+97,11-1-22, 9:08pm, Lidu colony Daporijo, 55 yrs, Male, ST, COPD, Cardiac arrest
+98, 18-1-22, 11:26 am, Gyama colony Daporijo, 23 yrs, Male, ST, Nil, Brought death due to RTA
+99, 3-2-22, 3:45 pm, sigin colony Daporijo, 37 yrs, Male, ST, cirrhosis of liver, Respiratory Failure
+100, 3-2-22, 4:24 pm, Abotani colony Daporijo, 60 yrs, Male, ST, Nil, Cardio respiratory failure
+101, 3-2-22, 7:36 pm, sigin colony Daporijo, 75 yrs, Male, ST, Nil, Respiratory failure
+102, 14-2-22, 9:57 am, Liruk village Daporijo, 36 yrs, Male, ST, Nil, Brought death due to RTA 
+104, 26-2-22, 3:19 pm, Abotani colony Daporijo, 65 yrs, Male, ST, Nil, Pulmonary embolism death
+105, 10-3-22, 2:10 am, Power grid division daporijo, Adult, Male, ST, Stroke, Sudden cardio respiratory arrest
+106, 14-3-22, 4:17 pm, Airport Colony Daporijo, 90 yrs, Female, ST, Nil, Cardiac arrest
+107, 5-4-22, 10:50 pm, Golden market, 34 yrs, Female, ST, CVA cardiac failure, Cardiac arrest
+108, 12-4-22, 3:45 am, DST colony, 70 yrs, Male, ST, CVA, sudden cardiac arrest
+109, 21-4-22, 2:05 am, New market Daporijo, 35 yrs, Male, ST, Nil, CVAale
